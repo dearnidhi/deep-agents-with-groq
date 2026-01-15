@@ -120,8 +120,7 @@ Proper agents require planning, tools, memory, and orchestration
 ⭐ If this helped you
 Give the repo a ⭐ and share it with others learning AI Agents.
 
-[![YouTube](https://img.shields.io/badge/YouTube-Watch%20Demo-red?style=for-the-badge&logo=youtube)](https://youtu.be/MvDyDOPPxPA)
-
+[🎬 **Watch Demo Video**](https://youtu.be/MvDyDOPPxPA)
 ---
 
 
