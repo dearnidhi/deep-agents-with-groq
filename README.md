@@ -119,11 +119,9 @@ Proper agents require planning, tools, memory, and orchestration
 
 ⭐ If this helped you
 Give the repo a ⭐ and share it with others learning AI Agents.
-
-[[🎬 **Watch Demo Video**](https://youtu.be/MvDyDOPPxPA)
-](https://img.youtube.com/vi/MvDyDOPPxPA/maxresdefault.jpg
-
-)---
+--- ```
+DEMO
+https://youtu.be/MvDyDOPPxPA?si=9XafQC5EJaXTYzGz
 
 
 
