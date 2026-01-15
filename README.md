@@ -119,6 +119,16 @@ Proper agents require planning, tools, memory, and orchestration
 
 ⭐ If this helped you
 Give the repo a ⭐ and share it with others learning AI Agents.
+## 🎥 Demo Video
+
+Watch how this Deep Agents system works live on YouTube:
+
+[![Watch the Deep Agents Demo Video](https://img.youtube.com/vi/MvDyDOPPxPA/maxresdefault.jpg)](https://youtu.be/MvDyDOPPxPA?si=9XafQC5EJaXTYzGz)
+
+Click the image or link above to see:
+- 🎯 Full architecture walkthrough
+- 🧠 Planner, Researcher, Writer, Manager demo
+- 🖥️ Streamlit UI execution
 
 
 ---
