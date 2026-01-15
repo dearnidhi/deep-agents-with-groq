@@ -120,15 +120,13 @@ Proper agents require planning, tools, memory, and orchestration
 ⭐ If this helped you
 Give the repo a ⭐ and share it with others learning AI Agents.
 
-<p align="center">
-  <a href="https://youtu.be/MvDyDOPPxPA">
-    <img src="https://img.youtube.com/vi/MvDyDOPPxPA/maxresdefault.jpg" alt="Deep Agents Demo" />
-  </a>
-</p>
+# 🧠 Deep Agents Architecture – 4 Component System
 
-<p align="center">
-  <b>▶ Click the image to watch the full demo</b>
-</p>
+[![Watch Deep Agents Demo on YouTube](https://img.youtube.com/vi/MvDyDOPPxPA/maxresdefault.jpg)](https://youtu.be/MvDyDOPPxPA)
+
+▶ **Click the image to watch the full demo on YouTube**
+
+---
 
 
 ---
